@@ -1,6 +1,7 @@
 Objective:
 The goal of this project was to analyze customer behavior for a leading e-commerce client using Power BI. By leveraging the provided data sets, the project aimed to develop insightful dashboards addressing various business themes such as KPI overview, pricing & promotions, search & recommendations, among others. The key deliverables included an analytical dashboard and a detailed documentation summarizing the insights derived from the data.
 
+![image](https://github.com/chaithra2905/Retail-Data-Analysis-Power-Bi/assets/60225390/9b579218-bd86-4cce-82b9-eaddad2dcb8a)
 Methodology:
 Data Cleaning and Preparation:
 
@@ -31,5 +32,5 @@ Business Questions Addressed:
 6. What is the effect of special promotions on sales?
 7. How do pricing fluctuations affect sales?
 
-   ![image](https://github.com/chaithra2905/Retail-Data-Analysis-Power-Bi/assets/60225390/9b579218-bd86-4cce-82b9-eaddad2dcb8a)
+  
 
