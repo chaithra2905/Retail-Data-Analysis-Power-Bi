@@ -30,3 +30,6 @@ Business Questions Addressed:
 5. How is the search behavior in terms of brand search by category or category search by brand?
 6. What is the effect of special promotions on sales?
 7. How do pricing fluctuations affect sales?
+
+   ![image](https://github.com/chaithra2905/Retail-Data-Analysis-Power-Bi/assets/60225390/9b579218-bd86-4cce-82b9-eaddad2dcb8a)
+
